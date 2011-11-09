@@ -1,7 +1,9 @@
-Capybara VIM snippets
+Capybara VIM bundle
 =====================
 
-Put code in `~/.vim/snippets/capybara`:
+Includes snippets and ftdetect.
 
-    $ git clone git://github.com/asux/vim-snippets-capybara.git ~/.vim/snippets/capybara
+Put code in `~/.vim/bundle`:
+
+    $ git clone git://github.com/asux/vim-capybara.git ~/.vim/bundle/vim-capybara
 
