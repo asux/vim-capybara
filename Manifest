@@ -2,6 +2,8 @@ ftdetect/capybara.vim
 snippets/capybara/fil.snippet
 snippets/capybara/vis.snippet
 snippets/capybara/che.snippet
+snippets/capybara/sav.snippet
+snippets/capybara/psh.snippet
 snippets/capybara/fin.snippet
 snippets/capybara/wit.snippet
 snippets/capybara/sce.snippet
@@ -10,5 +12,8 @@ snippets/capybara/cho.snippet
 snippets/capybara/clib.snippet
 snippets/capybara/cli.snippet
 snippets/capybara/sel.snippet
+snippets/capybara/atf.snippet
 snippets/capybara/clil.snippet
 snippets/capybara/fea.snippet
+snippets/capybara/witt.snippet
+snippets/capybara/witf.snippet
