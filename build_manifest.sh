@@ -1,5 +1,5 @@
 #!/bin/sh
-GLOBS='ftdetect/* snippets/*'
+GLOBS='after/* snippets/*'
 echo -n > Manifest
 for g in ${GLOBS}; do
   find $g -type f >> Manifest

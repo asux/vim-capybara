@@ -1,4 +1,4 @@
-ftdetect/capybara.vim
+after/ftdetect/capybara.vim
 snippets/capybara/fil.snippet
 snippets/capybara/vis.snippet
 snippets/capybara/che.snippet
