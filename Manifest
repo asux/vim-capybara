@@ -1,5 +1,4 @@
 after/ftdetect/capybara.vim
-snippets/back.snippet
 snippets/capybara/fil.snippet
 snippets/capybara/vis.snippet
 snippets/capybara/che.snippet
@@ -7,6 +6,7 @@ snippets/capybara/sav.snippet
 snippets/capybara/psh.snippet
 snippets/capybara/fin.snippet
 snippets/capybara/wit.snippet
+snippets/capybara/back.snippet
 snippets/capybara/sce.snippet
 snippets/capybara/unch.snippet
 snippets/capybara/cho.snippet
